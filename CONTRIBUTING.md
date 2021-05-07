@@ -16,7 +16,7 @@ more than welcome!
 
 # License
 
-Hashfunctions is licensed under the [MIT License][].
+Hashfunctions is licensed under the [LGPLv3 license][].
 
   [the repository]: https://github.com/ccr5/hashing-python-module
-  [MIT License]: https://opensource.org/licenses/MIT
+  [LGPLv3 license]: https://www.gnu.org/licenses/lgpl-3.0.html

@@ -4,22 +4,17 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="Ovomaltino",
-    version="0.0.12",
+    name="HashFunction",
+    version="0.0.1",
     author="Matheus Nobre Gomes",
     author_email="matt-gomes@live.com",
-    description="Multi agent system using social theories",
+    description="Hashing module",
     license="GPLv3+",
-    keywords="Ovomaltino",
+    keywords="hashing, hash, function",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Ovomaltino/Ovomaltino",
+    url="https://github.com/ccr5/hashing-python-module",
     packages=find_packages(exclude=['contrib', 'docs', 'tests']),
-    install_requires=[
-        "numpy",
-        "pandas",
-        "requests"
-    ],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
